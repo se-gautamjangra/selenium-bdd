@@ -1,5 +1,12 @@
 # selenium-bdd
 
+This project is devloped using below technologies:
+1. Java
+2. Selenium
+3. Rest Assured
+4. Cucumber
+5. Reporting - Maven Cucumber Reporting
+
 ### Project details:
 UI Tests:
 ```Customer navigation through product categories: Phones, Laptops and Monitors
