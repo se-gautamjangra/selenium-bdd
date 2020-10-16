@@ -1,0 +1,18 @@
+{
+  "id": 9217336407590477000,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "shaggy",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "sold"
+}

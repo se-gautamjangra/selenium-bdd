@@ -1,0 +1,292 @@
+2020-10-16 18:38:14 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 18:38:19 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 18:38:20 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:38:20 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:38:20 INFO  CommonUtils:23 - Clicking on element - Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Add to cart']'
+2020-10-16 18:38:20 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:38:21 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:38:21 INFO  CommonUtils:23 - Clicking on element - Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Add to cart']'
+2020-10-16 18:38:21 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (a1830caa6af76161cfcba57fba64cf1e)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 18:41:15 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 18:41:22 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 18:41:23 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 18:41:23 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:41:23 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 18:41:23 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:41:24 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:41:39 INFO  CommonUtils:23 - Clicking on element - Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Add to cart']'
+2020-10-16 18:41:55 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:41:56 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:41:57 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 18:41:57 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (64eb6c171c78979b008f54ac289fce8c)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 18:44:31 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 18:44:36 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (289aef55707e3414c241ec32c5605187)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 18:44:47 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 18:44:47 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (289aef55707e3414c241ec32c5605187)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:44:57 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 18:44:57 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (289aef55707e3414c241ec32c5605187)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:45:09 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (289aef55707e3414c241ec32c5605187)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:45:56 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 18:46:06 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 18:46:17 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 18:46:17 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:46:29 INFO  AssertionUtils:29 - WebElement: Actual text is Sony vaio i5 and expected text is Sony vaio i5
+2020-10-16 18:46:29 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@id='itemc'][text()='Monitors']]
+2020-10-16 18:46:40 INFO  AssertionUtils:29 - WebElement: Actual text is Apple monitor 24 and expected text is Apple monitor 24
+2020-10-16 18:46:41 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:46:54 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:47:09 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 18:47:29 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 18:47:49 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 18:48:03 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 18:53:33 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 18:53:50 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 18:54:10 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 18:54:28 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (2b1e79f5ca73bf3139434dbbdfa1e3d2)] -> xpath: //tr[@class="success"]/td[text()='Dell i7 8gb']/following-sibling::td/a]
+2020-10-16 18:54:38 INFO  AssertionUtils:48 - Actual text is 2 and expected text is 1
+2020-10-16 19:43:22 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:43:28 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:43:29 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:43:29 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:43:29 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 19:43:29 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:43:30 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:43:31 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:43:31 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:43:33 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:43:33 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (aaf91eb658ae08e602a801667f737afd)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 19:45:30 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:45:37 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (1a5a21b4c445e05b07c756ea2c7772eb)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:45:38 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:45:38 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (1a5a21b4c445e05b07c756ea2c7772eb)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:45:38 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 19:47:22 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:47:34 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (eedb1a17dd863dc211ad5fb4d48cbbb9)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:47:35 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:47:35 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (eedb1a17dd863dc211ad5fb4d48cbbb9)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:47:36 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 19:50:17 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:50:27 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (93961b14a272accc78207351395dd47c)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:51:22 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:51:30 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1f7759e5a0c39484178e301bc611a31)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:51:31 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:51:32 INFO  CommonUtils:23 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1f7759e5a0c39484178e301bc611a31)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:51:32 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Sony vaio i5
+2020-10-16 19:53:01 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:53:24 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (1e451563a21679cbd55cbf62ec928a08)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:53:25 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:53:26 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (1e451563a21679cbd55cbf62ec928a08)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:53:27 INFO  AssertionUtils:29 - WebElement: Actual text is Sony vaio i5 and expected text is Sony vaio i5
+2020-10-16 19:53:27 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (1e451563a21679cbd55cbf62ec928a08)] -> xpath: //a[@id='itemc'][text()='Monitors']]
+2020-10-16 19:53:28 INFO  AssertionUtils:29 - WebElement: Actual text is Apple monitor 24 and expected text is Apple monitor 24
+2020-10-16 19:54:09 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:54:14 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:54:15 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:54:18 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:54:20 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:54:23 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:54:26 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:54:28 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:54:30 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (ff515115312a2709236685ce1931e1af)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:55:14 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:55:22 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:55:24 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:55:24 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:55:25 INFO  AssertionUtils:29 - WebElement: Actual text is Sony vaio i5 and expected text is Sony vaio i5
+2020-10-16 19:55:25 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@id='itemc'][text()='Monitors']]
+2020-10-16 19:55:26 INFO  AssertionUtils:29 - WebElement: Actual text is Apple monitor 24 and expected text is Apple monitor 24
+2020-10-16 19:55:27 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:55:28 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:55:31 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:55:33 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:55:37 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:55:39 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:55:41 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:55:43 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:55:46 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 19:55:49 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //tr[@class="success"]/td[text()='Dell i7 8gb']/following-sibling::td/a]
+2020-10-16 19:55:51 INFO  AssertionUtils:48 - Actual text is 1 and expected text is 1
+2020-10-16 19:55:51 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //button[text()='Place Order']]
+2020-10-16 19:55:53 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="name"]]
+2020-10-16 19:55:53 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="country"]]
+2020-10-16 19:55:53 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="city"]]
+2020-10-16 19:55:53 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="card"]]
+2020-10-16 19:55:54 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="month"]]
+2020-10-16 19:55:54 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //input[@id="year"]]
+2020-10-16 19:55:54 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //button[@onclick="purchaseOrder()"]]
+2020-10-16 19:55:55 INFO  CartPageSteps:44 - Order Details:- Id: 2525687
+Amount: 790 USD
+Card Number: 9012345678
+Name: Gautam
+Date: 16/9/2020
+2020-10-16 19:55:55 INFO  AssertionUtils:44 - Actual text is Id: 2525687
+Amount: 790 USD
+Card Number: 9012345678
+Name: Gautam
+Date: 16/9/2020 and expected text is 790
+2020-10-16 19:55:55 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (6c026c9b768d2f79dd3f020ee1e79de5)] -> xpath: //button[text()='OK']]
+2020-10-16 19:58:55 INFO  PetStoreSteps:37 - ADD PET Request Body :- {  "id": 0,  "category": {    "id": 0,    "name": "string"  },  "name": "shaggy",  "photoUrls": [    "string"  ],  "tags": [    {      "id": 0,      "name": "string"    }  ],  "status": "available"}
+2020-10-16 19:59:00 INFO  PetStoreSteps:56 - ADD PET response:-{"id":9217336407590485220,"category":{"id":0,"name":"string"},"name":"shaggy","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+2020-10-16 19:59:00 INFO  AssertionUtils:39 - Actual text is 200 and expected text is 200
+2020-10-16 19:59:02 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:02 INFO  AssertionUtils:39 - Actual text is shaggy and expected text is shaggy
+2020-10-16 19:59:04 INFO  PetStoreSteps:60 - AVAILABLE PETS response:-[{"id":9217336407590484593,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484594,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484597,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484599,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484600,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484603,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484616,"category":{"id":0,"name":"dog"},"name":"Rex","photoUrls":["http://example.com/images/rex.png"],"tags":[],"status":"available"},{"id":9217336407590484619,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484640,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484694,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":1245,"category":{"id":1245,"name":"xyz"},"name":"xyz","photoUrls":["test"],"tags":[],"status":"available"},{"id":9217336407590484737,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484745,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484748,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484758,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484763,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484765,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":668,"category":{"id":668,"name":"dog667"},"name":"dog667","photoUrls":["www.Infostretch.com"],"tags":[{"id":668,"name":"dog667"}],"status":"available"},{"id":502,"category":{"id":502,"name":"dog550"},"name":"dog550","photoUrls":["www.Infostretch.com"],"tags":[{"id":502,"name":"dog550"}],"status":"available"},{"id":4561,"category":{"id":4561,"name":"dog2175"},"name":"dog2175","photoUrls":["www.Infostretch.com"],"tags":[{"id":4561,"name":"dog2175"}],"status":"available"},{"id":1009,"category":{"id":1009,"name":"ManuGupta1"},"name":"doggie","photoUrls":["www.Infostretch.com"],"tags":[{"id":1009,"name":"ManuGupta1"}],"status":"available"},{"id":9217336407590484775,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484778,"category":{"id":0,"name":"Jerry"},"name":"Mouse","photoUrls":["string"],"tags":[{"id":0,"name":"Mouse"}],"status":"available"},{"id":9217336407590484780,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484784,"category":{"id":0,"name":"string"},"name":"molly","photoUrls":["string"],"tags":[{"id":0,"name":"dog"}],"status":"available"},{"id":9217336407590484785,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484787,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484788,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484792,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484816,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484818,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484820,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484822,"category":{"id":0,"name":"string"},"name":"kutyi","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":122212121,"category":{"id":0,"name":"string"},"name":"kutyi","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484831,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484835,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590484841,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484842,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484853,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484862,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484866,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484867,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484882,"name":"Cash","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484883,"name":"Gutierrez","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484884,"name":"Noel","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484885,"name":"Bolton","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484886,"name":"Salinas","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484889,"name":"Malik","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484890,"name":"Avram","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484891,"name":"Hannah","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484892,"name":"Jessica","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484893,"name":"Kaitlin","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484894,"name":"Dorothy","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484895,"name":"Imogene","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484896,"name":"Buckminster","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484897,"name":"Conan Briggs","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484898,"name":"Neil Cash","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484899,"name":"Bree Roberts","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484901,"name":"Kieran Workman","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484902,"name":"Camilla Mullins","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484903,"name":"Rebecca Williams","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484904,"name":"Jessamine Buchanan","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484905,"name":"Chancellor Schmidt","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484906,"name":"Stephanie Davenport","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484907,"name":"Ivan Sampson","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484914,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":888888,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484918,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484937,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484950,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484953,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484955,"name":"doggie","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590484956,"name":"doggie","photoUrls":[],"tags":[],"status":"available"},{"id":991,"category":{"id":87,"name":"category991"},"name":"Llama","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":2,"name":"German Shepherd","photoUrls":[],"tags":[],"status":"available"},{"id":888880,"category":{"id":0,"name":"string"},"name":"???????","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484977,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590484979,"category":{"id":0,"name":"string"},"name":"Guru","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485007,"name":"doggie","photoUrls":["string"],"tags":[],"status":"available"},{"id":9217336407590485017,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485024,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485046,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485048,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485049,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485050,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485051,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485053,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485054,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"sddtring"}],"status":"available"},{"id":9217336407590485079,"category":{"id":0,"name":"string"},"name":"fish","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":123,"category":{"id":123,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":123,"name":"string"}],"status":"available"},{"id":9217336407590485087,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485112,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485113,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485124,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485129,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485133,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485134,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485158,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590485162,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590485164,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":[],"tags":[],"status":"available"},{"id":9217336407590485166,"name":"doggie","photoUrls":["string"],"tags":[],"status":"available"},{"id":635,"category":{"id":15,"name":"string"},"name":"Test","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485170,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590485172,"name":"Goot Doggie","photoUrls":["https://media.karousell.com/media/photos/products/2017/09/14/doggi_door_stopper_1505372529_5cdd1eba0"],"tags":[],"status":"available"},{"id":9217336407590485179,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485180,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485196,"category":{"id":0,"name":"string"},"photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":112233,"category":{"id":30,"name":"Eq-dog"},"name":"Postman","photoUrls":["URLLink"],"tags":[{"id":10,"name":"Doberman"}],"status":"available"},{"id":9217336407590485199,"name":"doggie","photoUrls":["string"],"tags":[],"status":"available"},{"id":76785,"category":{"id":0,"name":"string"},"name":"Pushistik","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485213,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"},{"id":9217336407590485220,"category":{"id":0,"name":"string"},"name":"shaggy","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}]
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is 200 and expected text is 200
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  AssertionUtils:39 - Actual text is available and expected text is available
+2020-10-16 19:59:04 INFO  PetStoreSteps:44 - SOLD PET Request Body :- {"photoUrls":["string"],"name":"shaggy","id":"9217336407590485220","category":{"name":"string","id":0},"tags":[{"name":"string","id":0}],"status":"sold"}
+2020-10-16 19:59:06 INFO  PetStoreSteps:64 - SOLD PET response:-{"id":9217336407590485220,"category":{"id":0,"name":"string"},"name":"shaggy","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"sold"}
+2020-10-16 19:59:06 INFO  AssertionUtils:39 - Actual text is 200 and expected text is 200
+2020-10-16 19:59:06 INFO  AssertionUtils:39 - Actual text is sold and expected text is sold
+2020-10-16 19:59:06 INFO  AssertionUtils:39 - Actual text is shaggy and expected text is shaggy
+2020-10-16 19:59:07 INFO  PetStoreSteps:68 - DELETE PET response:-{"code":200,"type":"unknown","message":"9217336407590485220"}
+2020-10-16 19:59:07 INFO  AssertionUtils:39 - Actual text is 200 and expected text is 200
+2020-10-16 19:59:07 INFO  AssertionUtils:39 - Actual text is 9217336407590485220 and expected text is 9217336407590485220
+2020-10-16 19:59:07 INFO  AssertionUtils:39 - Actual text is unknown and expected text is unknown
+2020-10-16 19:59:12 INFO  DriverUtils:22 - Launching Chrome Browser.
+2020-10-16 19:59:17 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@id='itemc'][text()='Phones']]
+2020-10-16 19:59:19 INFO  AssertionUtils:29 - WebElement: Actual text is Samsung galaxy s6 and expected text is Samsung galaxy s6
+2020-10-16 19:59:19 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:59:20 INFO  AssertionUtils:29 - WebElement: Actual text is Sony vaio i5 and expected text is Sony vaio i5
+2020-10-16 19:59:21 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@id='itemc'][text()='Monitors']]
+2020-10-16 19:59:22 INFO  AssertionUtils:29 - WebElement: Actual text is Apple monitor 24 and expected text is Apple monitor 24
+2020-10-16 19:59:22 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:59:23 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:59:26 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:59:28 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:59:31 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@class='nav-link'][contains(text(),'Home')]]
+2020-10-16 19:59:33 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@id='itemc'][text()='Laptops']]
+2020-10-16 19:59:35 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //h4[@class="card-title"]]
+2020-10-16 19:59:37 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[text()='Add to cart']]
+2020-10-16 19:59:40 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //a[@class='nav-link'][contains(text(),'Cart')]]
+2020-10-16 19:59:43 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //tr[@class="success"]/td[text()='Dell i7 8gb']/following-sibling::td/a]
+2020-10-16 19:59:45 INFO  AssertionUtils:48 - Actual text is 1 and expected text is 1
+2020-10-16 19:59:45 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //button[text()='Place Order']]
+2020-10-16 19:59:47 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="name"]]
+2020-10-16 19:59:47 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="country"]]
+2020-10-16 19:59:47 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="city"]]
+2020-10-16 19:59:47 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="card"]]
+2020-10-16 19:59:48 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="month"]]
+2020-10-16 19:59:48 INFO  CommonUtils:33 - Setting text to element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //input[@id="year"]]
+2020-10-16 19:59:48 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //button[@onclick="purchaseOrder()"]]
+2020-10-16 19:59:49 INFO  CartPageSteps:44 - Order Details:- Id: 1565370
+Amount: 790 USD
+Card Number: 9012345678
+Name: Gautam
+Date: 16/9/2020
+2020-10-16 19:59:49 INFO  AssertionUtils:44 - Actual text is Id: 1565370
+Amount: 790 USD
+Card Number: 9012345678
+Name: Gautam
+Date: 16/9/2020 and expected text is 790
+2020-10-16 19:59:49 INFO  CommonUtils:24 - Clicking on element - [[ChromeDriver: chrome on WINDOWS (b1238b75a83ae2ce764cb9e37d880b61)] -> xpath: //button[text()='OK']]
